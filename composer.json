@@ -1,0 +1,20 @@
+{
+    "name": "wys/captcha",
+    "type": "library",
+    "require": {
+        "ext-gd": "^7.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wys",
+            "email": "50634235@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Wys\\Captcha\\": "src"
+        }
+    }
+}
